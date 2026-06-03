@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+opinion-data/
+generated-results/
+.claw-studio-config.json
